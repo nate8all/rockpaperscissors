@@ -4,6 +4,12 @@
 }
 #choices{
   display:flex;
-  justify-content:space-between;
+  justify-content:space-around;
+  
+}
+
+body {
+  background-color: #FF5733;
+  color: white;
   
 }
